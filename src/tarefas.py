@@ -8,3 +8,6 @@ def listar():
 
 def editar(indice, titulo):
     tarefas[indice] = titulo
+
+def excluir(indice):
+    tarefas.pop(indice)
