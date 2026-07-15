@@ -19,3 +19,13 @@ python src/app.py
 
 Como executar os testes
 pytest
+
+Mudança de Escopo
+
+Foi adicionada a funcionalidade de prioridade das tarefas.
+
+Agora cada tarefa pode possuir:
+
+Alta
+Média
+Baixa
